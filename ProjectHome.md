@@ -1,0 +1,1 @@
+JADE based implementation of Utrecht University's Multi-agent Systems course assignments.
